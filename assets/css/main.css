@@ -2552,7 +2552,7 @@
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #312450;
+			color: #5c7a1f;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -3534,7 +3534,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #5c7a1f;
 		cursor: default;
 		height: 100vh;
 		left: 0;
