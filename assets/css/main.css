@@ -1640,10 +1640,11 @@
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
-		font-family: Nixie One, Helvetica, sans-serif;
+		font-family: 'Nixie One', 'Abril Fatface', 'Ubuntu';
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75;
+		src: url("fonts/NixieOne-Regular.otf");
 	}
 
 		@media screen and (max-width: 1680px) {
