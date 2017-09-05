@@ -3261,7 +3261,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #cc6d6d;
+			background-color: #49072e;
 		}
 
 		.wrapper.style2-alt {
@@ -3274,6 +3274,10 @@
 
 		.wrapper.style3-alt {
 			background-color: #953d75;
+		}
+
+		.wrapper.style4-alt {
+			background-color: #cc6d6d;
 		}
 
 		.wrapper.fullscreen {
