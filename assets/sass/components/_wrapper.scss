@@ -54,6 +54,14 @@
 		&.style3-alt {
 			background-color: _palette(accent3-alt);
 		}
+		
+		&.style4 {
+			background-color: _palette(accent4);
+		}
+
+		&.style4-alt {
+			background-color: _palette(accent4-alt);
+		}
 
 		&.fullscreen {
 			@include vendor('display', 'flex');
