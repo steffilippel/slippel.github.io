@@ -3489,18 +3489,11 @@
 		margin-left: 18em;
 	}
 	
-	#sidebar {
-		background-attachment: fixed;
-		background-image: url("images/Logo.svg");
-		background-position: top center;
-		background-repeat: no-repeat;
-		background-size: 100% 100%;
-	}
 		@media screen and (max-width: 1280px) {
 
 			#sidebar + #wrapper {
 				margin-left: 0;
-				padding-top: 0em;
+				padding-top: 1em;
 			}
 
 		}
@@ -3552,13 +3545,8 @@
 	
 	#sidebar {
 		
-		padding: 2.5em 2.5em 0.5em 2.5em ;
+		padding: 1em 2.5em 0.5em 2.5em ;
 		background: #608D08;
-		background-attachment: fixed;
-		background-image: url("images/Logo.svg");
-		background-position: top Center;
-		background-repeat: no-repeat;
-		background-size: 100% 100%;
 		cursor: default;
 		height: 100vh;
 		left: 0;
