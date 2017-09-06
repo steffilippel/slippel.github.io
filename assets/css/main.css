@@ -1640,7 +1640,9 @@
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.55);
-		font-family: 'Nixie One', 'Abril Fatface', 'Ubuntu';
+		font-family: 'Nixie One', cursive;
+		font-family: 'Abril Fatface', cursive;
+		font-family: 'Ubuntu', sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
 		line-height: 1.75;
