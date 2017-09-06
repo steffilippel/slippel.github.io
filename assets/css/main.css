@@ -3488,6 +3488,14 @@
 	#sidebar + #wrapper {
 		margin-left: 18em;
 	}
+	
+	#sidebar {
+		background-attachment: fixed;
+		background-image: url("images/Logo.svg");
+		background-position: top center;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
 
 		@media screen and (max-width: 1280px) {
 
