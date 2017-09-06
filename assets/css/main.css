@@ -3496,33 +3496,26 @@
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
 	}
-			#sidebar p {
-			font-size: 1.25em;
-		}
-
-			@media screen and (max-width: 980px) {
-
-				#sidebar p br {
-					display: none;
-				}
-
-			}
-
-			@media screen and (max-width: 736px) {
-
-				#sidebar p {
-					font-size: 1em;
-				}
-
-			}
-
 		@media screen and (max-width: 1280px) {
 
-			#sidebar {
-				background-attachment: scroll;
+			#sidebar + #wrapper {
+				margin-left: 0;
+				padding-top: 3.5em;
 			}
 
 		}
+
+		@media screen and (max-width: 736px) {
+
+			#sidebar + #wrapper {
+				padding-top: 0;
+			}
+
+		}
+
+	#header + #wrapper > .wrapper > .inner {
+		margin: 0 auto;
+	}
 
 /* Footer */
 
