@@ -1,14 +1,8 @@
 /*
-	Hyperspace by HTML5 UP
+	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
-/* Type */
-
-	body, input, select, textarea {
-		color: #ffffff;
-	}
 
 /* Button */
 
@@ -17,38 +11,11 @@
 	input[type="button"],
 	button,
 	.button {
-		position: relative;
+		border: solid 2px #f56a6a;
 	}
 
-		input[type="submit"]:after,
-		input[type="reset"]:after,
-		input[type="button"]:after,
-		button:after,
-		.button:after {
-			display: none;
-		}
+/* Posts */
 
-/* Features */
-
-	.features {
-		border: solid 1px;
-	}
-
-/* Form */
-
-	input[type="text"],
-	input[type="password"],
-	input[type="email"],
-	input[type="tel"],
-	select,
-	textarea {
-		background: transparent;
-		border: solid 1px;
-	}
-
-/* Split */
-
-	.split.style1 > :first-child {
-		padding-right: 2em;
-		width: 70%;
+	.posts article {
+		width: 40%;
 	}
