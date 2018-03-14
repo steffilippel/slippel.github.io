@@ -3068,9 +3068,9 @@
 /* Mini Posts */
 
 	.mini-posts article {
-		border-top: solid 1px rgba(210, 215, 217, 0.75);
-		margin-top: 2em;
-		padding-top: 2em;
+		border-top: solid 0px rgba(210, 215, 217, 0.75);
+		margin-top: 0em;
+		padding-top: 0em;
 	}
 
 		.mini-posts article .image {
